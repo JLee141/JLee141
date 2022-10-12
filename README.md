@@ -1,4 +1,4 @@
-- 👋🏼 Hi, I’m Jordan @JLee1
+- 👋🏼 Hi, I’m Jordan @JLee141
 - 👀 I’m interested in exploring technologies and develop experiences
 - 🌱 I’m currently learning on how to expand my UX Design Thoughts and so much more.
 - 📫 How to reach me through here 😊
