@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m Jordan @JLee141
-- 👀 I’m interested in exploring Apple technologies such and Swift and develop UX experiences
+- 👀 I’m interested in developing for Apple technologies using Swift and SwiftUI and creating UX experiences.
 - 📖 Currently learning on how to expand my UX Design Thoughts and so much more.
 - ✍🏼 I'm heads down on IT work for now (Spare time I try to do other things!)
 
