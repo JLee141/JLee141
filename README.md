@@ -1,5 +1,5 @@
 - 👋🏼 Hi, I’m Jordan @JLee141
-- 🧠 I’m passionate about **IT, UX Design, software development, creative problem-solving, and technology overall**.
+- 🧠 I love **UX · Design, IT, and technology overall**.
 - 📖 Currently learning on how to expand my design thoughts.
 - ✍🏼 I'm heads down on IT work for now, Full time! (Spare time I try to do other things!)
 
