@@ -1,7 +1,7 @@
-- 👋🏼 Hi, I’m Jordan @JLee141
-- 🧠 I love **UX · Design, IT, and technology overall**.
-- 📖 Currently learning on how to expand my design thoughts.
-- ✍🏼 I'm heads down on IT work for now, Full time! (Spare time I try to do other things!)
+Jordan (@JLee141)
+🔧 Pragmatic · Design Engineer
+🎨 UX · Design focused
+📍 Everglades · Florida
 
 <!---
 JLee141/JLee141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
