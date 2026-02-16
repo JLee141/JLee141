@@ -1,7 +1,7 @@
-Jordan (@JLee141)
-🔧 Pragmatic · Design Engineer
-🎨 UX · Design focused
-📍 Everglades · Florida
+- Jordan (@JLee141)
+- 🔧 Pragmatic · Design Engineer
+- 🎨 UX · Design focused
+- 📍 Everglades · Florida
 
 <!---
 JLee141/JLee141 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
