@@ -1,5 +1,6 @@
 Jordan (@JLee141)
 - 🔧 Pragmatic · Design Engineer
+- 💻 IT System Admin
 - 🎨 UX · Design focused
 - 📍 Everglades · Florida
 
